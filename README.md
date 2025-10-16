@@ -7,7 +7,7 @@
 - **✅ [KCNA](https://www.cncf.io/certification/kcna/)** - Kubernetes and Cloud Native Associate
 - **✅ [KCSA](https://www.cncf.io/certification/kcsa/)** - Kubernetes and Cloud Security Associate
 - **[ ] [LFCS](https://www.linuxfoundation.org/certification/linux-foundation-certified-system-administrator-lfcs/)** - Linux Foundation Certified System Administrator
-- **[ ] [PCA](https://www.cncf.io/certification/pca/)** - Prometheus Certified Associate - scheduled 16.10.2025
+- **✅ [PCA](https://www.cncf.io/certification/pca/)** - Prometheus Certified Associate - scheduled 16.10.2025
 - **[ ] [ICA](https://www.cncf.io/certification/ica/)** - Istio Certified Associate
 - **[ ] [CCA](https://www.cncf.io/certification/cca/)** - Cloud Foundry Certified Associate
 - **[ ] [CAPA](https://www.cncf.io/certification/capa/)** - Certified Application Packager Associate
