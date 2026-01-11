@@ -14,6 +14,6 @@
 - **[ ] [CGOA](https://training.linuxfoundation.org/certification/certified-gitops-associate-cgoa/)** - Certified GitOps Associate 
 - **[ ] [CBA](https://training.linuxfoundation.org/certification/certified-backstage-associate-cba/)** - Certified Backstage Associate
 - **[ ] [OTCA](https://training.linuxfoundation.org/certification/opentelemetry-certified-associate-otca/)** - OpenTelemetry Certified Associate
-- **[ ] [KCA](https://training.linuxfoundation.org/certification/kyverno-certified-associate-kca/)** - Kyverno Certified Associate 
+- **✅ [KCA](https://training.linuxfoundation.org/certification/kyverno-certified-associate-kca/)** - Kyverno Certified Associate  - 11.1.2026
 - **[ ] [CNPA](https://training.linuxfoundation.org/certification/certified-cloud-native-platform-engineering-associate-cnpa/)** - Certified Cloud Native Platform Engineering Associate
 
