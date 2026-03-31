@@ -15,5 +15,6 @@
 - **[ ] [CBA](https://training.linuxfoundation.org/certification/certified-backstage-associate-cba/)** - Certified Backstage Associate
 - **[ ] [OTCA](https://training.linuxfoundation.org/certification/opentelemetry-certified-associate-otca/)** - OpenTelemetry Certified Associate
 - **✅ [KCA](https://training.linuxfoundation.org/certification/kyverno-certified-associate-kca/)** - Kyverno Certified Associate  - 11.1.2026
-- **[ ] [CNPA](https://training.linuxfoundation.org/certification/certified-cloud-native-platform-engineering-associate-cnpa/)** - Certified Cloud Native Platform Engineering Associate
+- **✅ [CNPA](https://training.linuxfoundation.org/certification/certified-cloud-native-platform-engineering-associate-cnpa/)** - Certified Cloud Native Platform Engineering Associate - scheduled 31.3.2026
+- **[ ] [CNPE](https://training.linuxfoundation.org/certification/certified-cloud-native-platform-engineer-cnpe/)** - Certified Cloud Native Platform Engineer
 
