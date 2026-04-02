@@ -12,7 +12,7 @@
 - **✅ [CCA](https://training.linuxfoundation.org/certification/cilium-certified-associate-cca/)** - Cilium Certified Associate - scheduled 26.11.2025
 - **[ ] [CAPA](https://training.linuxfoundation.org/certification/certified-argo-project-associate-capa/)** - Certified Argo Project Associate
 - **✅ [CGOA](https://training.linuxfoundation.org/certification/certified-gitops-associate-cgoa/)** - Certified GitOps Associate - scheduled 27.03.2026
-- **[ ] [CBA](https://training.linuxfoundation.org/certification/certified-backstage-associate-cba/)** - Certified Backstage Associate
+- **✅ [CBA](https://training.linuxfoundation.org/certification/certified-backstage-associate-cba/)** - Certified Backstage Associate - scheduled 2.04.2026
 - **[ ] [OTCA](https://training.linuxfoundation.org/certification/opentelemetry-certified-associate-otca/)** - OpenTelemetry Certified Associate
 - **✅ [KCA](https://training.linuxfoundation.org/certification/kyverno-certified-associate-kca/)** - Kyverno Certified Associate  - 11.1.2026
 - **✅ [CNPA](https://training.linuxfoundation.org/certification/certified-cloud-native-platform-engineering-associate-cnpa/)** - Certified Cloud Native Platform Engineering Associate - scheduled 31.3.2026
