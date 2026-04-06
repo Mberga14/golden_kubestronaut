@@ -10,7 +10,7 @@
 - **✅ [PCA](https://www.cncf.io/certification/pca/)** - Prometheus Certified Associate - scheduled 16.10.2025
 - **✅ [ICA](https://training.linuxfoundation.org/certification/istio-certified-associate-ica/)** - Istio Certified Associate - scheduled 24.3.2026
 - **✅ [CCA](https://training.linuxfoundation.org/certification/cilium-certified-associate-cca/)** - Cilium Certified Associate - scheduled 26.11.2025
-- **[ ] [CAPA](https://training.linuxfoundation.org/certification/certified-argo-project-associate-capa/)** - Certified Argo Project Associate
+- **✅ [CAPA](https://training.linuxfoundation.org/certification/certified-argo-project-associate-capa/)** - Certified Argo Project Associate - scheduled 6.4.2026
 - **✅ [CGOA](https://training.linuxfoundation.org/certification/certified-gitops-associate-cgoa/)** - Certified GitOps Associate - scheduled 27.03.2026
 - **✅ [CBA](https://training.linuxfoundation.org/certification/certified-backstage-associate-cba/)** - Certified Backstage Associate - scheduled 2.04.2026
 - **[ ] [OTCA](https://training.linuxfoundation.org/certification/opentelemetry-certified-associate-otca/)** - OpenTelemetry Certified Associate
